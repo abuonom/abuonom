@@ -1,5 +1,5 @@
 ### Hello there and welcome to ✨ my GitHub ✨
-- 👋 Hi, I’m @FranFrau (Francesco)
+- 👋 Hi, I’m @abuonomo (Alessio)
 - 🖥 I’m currently student at 42Roma Luiss
 - 🖥 I’m currently student at Universitá degli studi di Napoli "Parthenope" in Scienze Informatiche (IT)
 - ⌨️ I’m currently learning C, C++, Unix
