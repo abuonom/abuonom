@@ -3,6 +3,7 @@
 - 🖥 I’m currently student at 42Roma Luiss
 - 🖥 I’m currently student at Universitá degli studi di Napoli "Parthenope" in Scienze Informatiche (IT)
 - ⌨️ I’m currently learning C, C++, Unix
+- ⚕️ I'm a healthcare specialist
 - 📫 Reach me -> abuonomo@student.42roma.it \ buonomoa6@gmail.com
 
 <div align="center">
