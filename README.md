@@ -11,10 +11,10 @@
 			<b>My 42 stats</b></br>
 		</tr>
 		<tr>
-		<a href="https://github.com/abuonom?tab=repositories">		 
-<img src="" />	
-			</a>
-			</td>
+	<a href="https://github.com/JaeSeoKim/badge42">
+		<img src="https://badge42.vercel.app/api/v2/cldvvxzsm00060fmse1mrp8h8/stats?cursusId=21&coalitionId=124" alt="abuonomo's 42 stats" /></a>
+	</a>
+		</td>
 		</tr>
 	</table>
 </div>
