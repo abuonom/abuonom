@@ -2,11 +2,9 @@
 - 👋 Hi, I’m @abuonomo (Alessio)
 - 🖥 I’m currently student at 42Roma Luiss
 - 🖥 I’m currently student at Universitá degli studi di Napoli "Parthenope" in Scienze Informatiche (IT)
-- ⌨️ I’m currently learning:
-	[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py)](https://skillicons.dev)
 - ⚕️ I'm Healthcare IT Analyst
-- 📫 Reach me -> abuonomo@student.42roma.it \ buonomoa6@gmail.com
-
+- - ⌨️ I’m currently learning:
+	[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py)](https://skillicons.dev)
 <div align="center">
 	<table>
 		<tr>
@@ -20,3 +18,4 @@
 		</tr>
 	</table>
 </div>
+<p>- 📫 Reach me -> abuonomo@student.42roma.it \ buonomoa6@gmail.com <\p>
