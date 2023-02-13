@@ -4,7 +4,7 @@
 - 🖥 I’m currently student at Universitá degli studi di Napoli "Parthenope" in Scienze Informatiche (IT)
 - ⚕️ I'm Healthcare IT Analyst
 - ⌨️ I’m currently learning:
-![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py)]
+<br>![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py)
 <div align="center">
 	<table>
 		<tr>
