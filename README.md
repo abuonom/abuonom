@@ -1,4 +1,4 @@
-# 🇮🇹🍝Hello there!🍝🇮🇹
+#🍝Hello there!🍝
 
 ## About me 🙋🏼‍♂️
 
