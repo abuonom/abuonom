@@ -5,18 +5,18 @@
 I'm Alessio Buonomo, a student of [42Roma Luiss](https://42roma.it/) the best programming school in the world, which is part of the [Ecolè42 Network](https://www.42network.org/).     
 You can find me on the intra as **abuonomo**.    
 I am also a student of the degree course in [Computer Science](https://orienta.uniparthenope.it/laurea-triennale/informatica/) at the Parthenope University of Naples.            
-I currently work at [SyncLab](https://www.synclab.it/home) as a Functional Analyst for Healthcare information systems.     
+In addition to my academic pursuits, I have gained experience as a Product Specialist and Functional Analyst in healtchare solutions.
 ## Languages 👾
 
-I have experience in the following programming languages & standards:
+I have experience in the following programming languages & framework:
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![DICOM](https://img.shields.io/badge/DICOM-blue?style=flat-square)
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## In the future? 🏃🏼
 
