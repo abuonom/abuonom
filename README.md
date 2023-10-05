@@ -2,7 +2,7 @@
 
 ## About me 🙋🏼‍♂️
 
-I'm Alessio Buonomo, I'm a student of [42Roma Luiss](https://42roma.it/) the best programming school in the world, which is part of the [Ecolè42 Network](https://www.42network.org/).     
+I'm Alessio Buonomo, a student of [42Roma Luiss](https://42roma.it/) the best programming school in the world, which is part of the [Ecolè42 Network](https://www.42network.org/).     
 You can find me on the intra as **abuonomo**.    
 I am also a student of the degree course in [Computer Science](https://orienta.uniparthenope.it/laurea-triennale/informatica/) at the Parthenope University of Naples.            
 I currently work at [SyncLab](https://www.synclab.it/home) as a Functional Analyst for Healthcare information systems.     
